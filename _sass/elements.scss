@@ -31,7 +31,7 @@
       }
       &:hover {
         background-color: $white;
-        color: $success;
+        color: $blue;
       }
     }
     &.btn-warning {
@@ -43,7 +43,7 @@
       }
       &:hover {
         background-color: $white;
-        color: $warning;
+        color: $blue;
       }
     }
     &.btn-danger {
@@ -55,7 +55,7 @@
       }
       &:hover {
         background-color: $white;
-        color: $danger;
+        color: $blue;
       }
     }
     &.btn-info {
@@ -67,7 +67,7 @@
       }
       &:hover {
         background-color: $white;
-        color: $info;
+        color: $blue;
       }
     }
 }

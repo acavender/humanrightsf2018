@@ -13,7 +13,7 @@ url:                https://humanrightsf2018.amycavender.org
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-highlighter:        blue
+highlighter:        rouge
 kramdown:
   auto_ids:         true
   footnote_nr:      1

@@ -62,7 +62,7 @@ If my usual hours don’t work for you, I’m happy to make alternate arrangemen
 
 You’ll need only one book for this course:
 
-> Glendon, Mary Ann. 2002. *A World Made New: Eleanor Roosevelt and the Universal Declaration of Human Rights*. New York: Random House.
+* Glendon, Mary Ann. 2002. *A World Made New: Eleanor Roosevelt and the Universal Declaration of Human Rights*. New York: Random House.
 
 It is available in e-book format, and if you prefer to manage your books electronically, that’s perfectly acceptable[^1]. Paper copies are available in the bookstore for your convenience.
 

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: "Printable syllabus"
 date: 2018-08-20
 excerpt: "A PDF version of the syllabus"

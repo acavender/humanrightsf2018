@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Printable syllabus"
-date: 2018-08-20
-excerpt: "A PDF version of the syllabus"
+title:  "Printable syllabus"
+date:   2018-08-20
+excerpt: "A PDF version of the syllabus."
 project: true
-tags: [project]
+tag: syllabus
 comments: false
 ---
 

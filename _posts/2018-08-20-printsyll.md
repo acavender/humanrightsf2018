@@ -4,7 +4,7 @@ title:  "Printable syllabus"
 date:   2018-08-20
 excerpt: "A PDF version of the syllabus."
 project: true
-tag: syllabus
+tags: [syllabus]
 comments: false
 ---
 

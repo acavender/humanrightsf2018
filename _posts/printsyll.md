@@ -3,7 +3,7 @@ layout: post
 title: "Printable syllabus"
 date: 2018-08-20
 excerpt: "A PDF version of the syllabus"
-project:true
+project: true
 tags: [project]
 comments: false
 ---

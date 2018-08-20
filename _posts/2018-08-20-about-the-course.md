@@ -52,7 +52,7 @@ We meet on Tuesdays and Thursdays from 2:00-3:15. All class meetings, unless oth
 
 Though I’m reachable by phone at x4430, the most reliable way to reach me is by email at [acavende@saintmarys.edu](mailto:acavende@saintmarys.edu).
 
-I check email Monday through Friday, once in the morning and once in the afternoon. I make every effort to respond within one business day. Please note that I don’t check work email on the weekends, so I won’t see an email sent on Friday afternoon until Monday morning.
+I check email Monday through Friday, once in the morning and once in the afternoon. I make every effort to respond within one business day. Please note that I don’t check work email on the weekends, so I may not see an email sent late Friday afternoon until Monday morning.
 
 My usual office hours are 10:00-12:00 on Mondays and Wednesdays, and 11:00-12:00 on Tuesdays and Thursdays. These are drop-in hours; except during the advance registration period, you don’t need an appointment during these times.
 

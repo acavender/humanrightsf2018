@@ -3,7 +3,6 @@ layout: post
 title:  "Office hours this Thursday"
 date:   2018-08-20
 excerpt: "Office hours this Thursday"
-project: true
 tags: [announcements]
 comments: false
 ---

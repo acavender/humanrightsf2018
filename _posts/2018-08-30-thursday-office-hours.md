@@ -3,7 +3,6 @@ layout: post
 title:  "Thursday office hours"
 date:   2018-08-30
 excerpt: "Thursday office hours are changing permanently."
-project: true
 tags: [announcements]
 comments: false
 ---

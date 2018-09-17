@@ -3,7 +3,6 @@ layout: post
 title:  "Exam 1 submission"
 date:   2018-09-17
 excerpt: "Exam 1 submission"
-project: true
 tags: [announcements]
 comments: false
 ---

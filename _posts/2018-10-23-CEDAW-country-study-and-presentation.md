@@ -7,6 +7,6 @@ tags: [assignments]
 comments: false
 ---
 
-##CEDAW assignments
+## CEDAW assignment
 
 The [assignment sheet](https://drive.google.com/file/d/11kFLgjTI5OFSu8jcE2NtGtcQLmcdcpFe/view?usp=sharing) for the CEDAW country study and presentation is now available.
